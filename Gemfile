@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'faraday'
+gem 'figaro'
 gem 'rails', '4.2.5.1'
 gem 'rspec-rails'
 gem 'sqlite3'
